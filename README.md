@@ -25,7 +25,7 @@ Put your test suites in `__tests__` directory, tested features in `src` director
 
 Continuous Integration configuration has been provided for Travis (.travis.yml), AppVeyor (appveyor.yml) and Bitbucket (bitbucket-pipelines.yml). Please refer to their documentation site for how to configure them.
 
-## Bibliograph
+## Bibliography
 
 Add sources as necessary.
 
